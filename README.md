@@ -2,7 +2,7 @@
 
 #### Database
 Install XAMPP (optional)
-Create a database name "assignment3"  
+Create a database name "pattern"  
 (If you want to use a different name, you need to go to AppConfig.java and change to
 dataSource.setUrl("jdbc:mysql://localhost:3306/YOURDATABASENAME?useUnicode=yes&characterEncoding=UTF-8"); )
 
